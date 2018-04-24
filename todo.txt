@@ -1,0 +1,14 @@
+#todst
+
+`todo`実行時にhd以下の.todst/todo.txt読み込み
+内容表示
+`todo edit`で外部コマンド実行
+vimで実行
+toml読み込み
+外部コマンド実行
+終了時外部コマンド実行
+
+#todolint
+
+todo.txtを食べて内容を出力
+パースしてxがついてかつ終了日付がないタスクを終了させる
